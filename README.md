@@ -36,7 +36,7 @@ Para realizar as requisições, você deverá utilizar a API do [TicketMaster](h
 
 - Testes unitários
 - Alguma metodologia para definição e organização do seu código CSS
-- O uso de alguma ferramenta de controle de estado
+- O uso de algum framework de controle de estado
 
 ## O que nos impressionaria
 
