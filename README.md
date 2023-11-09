@@ -23,7 +23,7 @@ Você irá construir uma aplicação, baseada em React.js, que permita aos usuá
 2. O usuário deverá ser capaz de buscar por **atrações** e por **eventos** utilizando um campo de texto e sendo capaz de selecionar o país onde ele ocorrerá.
 3. Os resultados da busca devem ser exibidos na página com as mesmas informações das sugestões iniciais (nomes, banners, link para o site de compra e o período de venda dos ingressos).
 
-Para realizar as requisições, você deverá utilizar a API do [TicketMaster](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/). Basta criar uma API key no site você será capaz de realizar chamadas.
+Para realizar as requisições, você deverá utilizar a API do [TicketMaster](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/). Basta criar uma API key no site você será capaz de realizar chamadas de API.
 
 ## O que nós esperamos do seu teste
 
