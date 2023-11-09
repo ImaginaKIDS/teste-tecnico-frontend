@@ -59,6 +59,6 @@ Para realizar as requisições, você deverá utilizar a API do [TicketMaster](h
 - Adaptação mobile (layout responsivo)
 - Componentização e extensibilidade dos componentes Typescript
 
-Ao finalizar seu teste, nos encaminhe o link do repositório para avaliação.
+Ao finalizar seu teste, nos encaminhe o link do repositório para avaliação. Será marcada uma reunião para que você possa apresentar seu projeto, justificar suas decisões técnicas e responder perguntas sobre a área de desenvolvimento web.
 
-**Feliz codificação!**
+**Boa codificação!**
