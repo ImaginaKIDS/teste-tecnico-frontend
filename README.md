@@ -3,7 +3,6 @@
 _O texto deste teste técnico foi baseado no texto disponibilizado no repositório da Intelipost_
 
 Se você chegou até aqui, seja bem vindo à etapa do teste técnico para Desenvolvedor Frontend na [ImaginaKIDS](https://www.imaginakids.com.br/)! 🙂
-😉
 Este documento fornece detalhes descritivos do teste técnico: encare-o teste como uma diretriz geral, mas sinta-se livre para liberar
 sua imaginação! Aqui você terá acesso a uma descrição detalhada, cujo objetivo é dar uma visão geral do projeto independente do seu nível profissional.
 Portanto, se você estiver se candidatando a uma vaga mais iniciante, não se assuste, e faça o melhor que você puder!
