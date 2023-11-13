@@ -7,6 +7,8 @@ Este documento fornece uma descrição do teste técnico: encare-o teste como um
 sua imaginação! Aqui você terá acesso a uma descrição detalhada, cujo objetivo é dar uma visão geral do projeto independente do seu nível profissional.
 Portanto, se você estiver se candidatando a uma vaga mais iniciante, não se assuste, e faça o melhor que você puder!
 
+Este mesmo teste é aplicado para as vagas em todos os níveis, ou seja, um candidato a uma vaga de frontend júnior fará o mesmo teste de um outro candidato a uma vaga de frontend pleno, mudando obviamente o nosso critério de avaliação e o grau de exigência do resultado do teste.
+
 ## Instruções
 
 Você deverá criar um _fork_ deste projeto, e desenvolver em cima do seu _fork_. Use o `README` principal do seu repositório para nos contar como foi resolver seu teste, as decisões tomadas, como você organizou e separou seu código, e principalmente as instruções de como rodar seu projeto, afinal a primeira pessoa que irá rodar seu projeto será um engenheiro de nossa equipe, e se você conseguir explicar para ele como fazer isso, você já começou bem!
